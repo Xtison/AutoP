@@ -1,0 +1,10 @@
+﻿  ConsoleApplication2.cpp
+E:\C++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(2,9): warning C4005: UNICODE: изменение макроопределения
+      E:\C++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(2,9):
+      "UNICODE" ранее объявлен в командной строке
+  
+E:\C++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3,9): warning C4005: _UNICODE: изменение макроопределения
+      E:\C++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3,9):
+      "_UNICODE" ранее объявлен в командной строке
+  
+  ConsoleApplication2.vcxproj -> E:\C++\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
